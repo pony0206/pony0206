@@ -2,7 +2,7 @@
 
 💧 FrontEnd: React, Next.js, Vue, Nuxt.js, TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, GraphQL, Laravel, PHP
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, Laravel, PHP
 
 ☀️ Mobile App: React Native, Android Java, C#
 
